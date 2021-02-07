@@ -1,0 +1,35 @@
+body{
+    background: #000;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    margin-top: 50px;
+}
+
+table{
+    margin:auto;
+    border:20px solid #a29e8d;
+    border-spacing: 5px;
+    border-radius: 20px;
+}
+.sayi{
+    font-size: 25px;
+}
+.harf{
+    font-size: 5px;
+}
+
+table td{
+    width: 75px;
+    height: 75px;
+    background: #f7f1eb;
+    font-size:4em;
+    line-height: 75px;
+    text-align: center;
+    border-radius: 15px;
+    border:2px solid #fff8dc;
+}
+.kahverengi{
+    background: #6f370f;   
+}
+
+
+
